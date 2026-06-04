@@ -4,7 +4,7 @@ import pandas as pd
 st.set_page_config(page_title="Factory Optimization Dashboard", layout="wide")
 st.title("Factory Reallocation & Shipping Optimization")
 
-df = pd.read_csv("data/Nassau Candy Distributor.csv")
+df = pd.read_csv("Nassau Candy Distributor.csv")
 
 factory_map = {
     "Wonka Bar - Nutty Crunch Surprise": "Lot's O' Nuts",
