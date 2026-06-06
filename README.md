@@ -6,7 +6,6 @@ This project focuses on improving factory allocation and shipping efficiency for
 
 The objective is to support decision-makers in identifying the most efficient factory-product assignments while maintaining profitability and reducing operational inefficiencies.
 
----
 
 ## Problem Statement
 
@@ -19,7 +18,6 @@ Nassau Candy Distributor currently relies on static product-to-factory assignmen
 
 This project introduces a recommendation system capable of analyzing historical business data and providing optimization insights through an interactive dashboard.
 
----
 
 ## Dataset Information
 
@@ -42,7 +40,7 @@ Key attributes include:
 * Cost
 * Gross Profit
 
----
+
 
 ## Technologies Used
 
@@ -51,9 +49,8 @@ Key attributes include:
 * NumPy
 * Streamlit
 * Scikit-Learn
-* Tableau
 
----
+
 
 ## Features
 
@@ -89,7 +86,7 @@ Estimate the impact of alternative factory allocation decisions.
 
 Assess reassignment risk levels and confidence scores.
 
----
+
 
 ## Dashboard Modules
 
@@ -104,7 +101,7 @@ Assess reassignment risk levels and confidence scores.
 * What-If Scenario Analysis
 * Risk & Impact Assessment
 
----
+
 
 ## Project Structure
 
@@ -119,7 +116,7 @@ factory-reallocation-optimization/
 └── README.md
 ```
 
----
+
 
 ## Installation
 
@@ -141,7 +138,7 @@ Run the Streamlit application:
 streamlit run app.py
 ```
 
----
+
 
 ## Key Findings
 
@@ -151,7 +148,7 @@ streamlit run app.py
 * Wonka Bar products generate the majority of profit and demand.
 * Low-performing products can be evaluated for reassignment opportunities.
 
----
+
 
 ## Future Scope
 
@@ -161,7 +158,7 @@ streamlit run app.py
 * Real-time logistics monitoring
 * Advanced factory allocation algorithms
 
----
+#Deployed Project Link: https://factory-reallocation-optimization.streamlit.app/
 
 ## Author
 
