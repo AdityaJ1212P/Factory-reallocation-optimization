@@ -159,7 +159,7 @@ streamlit run app.py
 * Advanced factory allocation algorithms
 
 #Deployed Project Link: https://factory-reallocation-optimization.streamlit.app/
-
+#Project Video Link: https://drive.google.com/file/d/19IxGYTxL275mjHzK-BJckSMI19gKoPbs/view?usp=sharing
 ## Author
 
 Aditya Jariwala
